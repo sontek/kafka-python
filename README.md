@@ -1,5 +1,6 @@
 # Kafka Python client
 
+
 [![Build Status](https://api.travis-ci.org/mumrah/kafka-python.png?branch=master)](https://travis-ci.org/mumrah/kafka-python)
 [![Coverage Status](https://coveralls.io/repos/mumrah/kafka-python/badge.svg?branch=master)](https://coveralls.io/r/mumrah/kafka-python?branch=master)
 [![Full documentation available on ReadTheDocs](https://readthedocs.org/projects/kafka-python/badge/?version=latest)](https://readthedocs.org/projects/kafka-python/?badge=latest)
